@@ -1,0 +1,13 @@
+{
+    "configurations": [
+        {
+            "name": "Launch GuessBot",
+            "program": "${workspaceFolder}/src/fhdbot.js",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "type": "node"
+        }
+    ]
+}
